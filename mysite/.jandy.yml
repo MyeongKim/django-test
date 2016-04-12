@@ -1,0 +1,5 @@
+language: python
+
+samples:
+    - id: Mytest
+      script: python manage.py test
